@@ -41,7 +41,7 @@ This project dives deep into Walmart's retail transaction data to uncover insigh
 
 ## 🚀 Getting Started 🏁
 
-1.  Clone the repository: `git clone [repository URL]`
+1.  Clone the repository: `https://github.com/yamuna44/Walmart-Sales-Data-Analysis/tree/main`
 2.  Install the required libraries: `pip install pandas numpy seaborn matplotlib openpyxl`
 3.  Run the Python scripts to perform the analysis and generate visualizations.
 4.  Explore the Excel dashboards for summarized insights.
